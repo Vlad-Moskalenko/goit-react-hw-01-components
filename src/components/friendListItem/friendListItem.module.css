@@ -17,6 +17,5 @@
 }
 
 .online {
-  composes: status;
   background-color: green;
 }
